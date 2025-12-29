@@ -1,0 +1,21 @@
+{
+  "boxes": [
+  
+    {
+      "name": "water",
+      "type": "aabb",
+      "min": [ 2.10, 0.45, -1.20 ],
+      "max": [ 3.85, 0.55,  0.30 ],
+      "pickable": true,
+      "layer": "interact"
+    }
+  ]
+}
+
+  //     {
+    //   "name": "lamp",
+    //   "space": "living",
+    //   "min": [ -0.15, 0.0, -0.15 ],
+    //   "max": [  0.15, 1.8,  0.15 ],
+    //   "solid": false
+    // },

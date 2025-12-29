@@ -1,0 +1,11 @@
+{
+  
+  "camera_start": [0.0, 1.6, 3.0],
+  "ambient_base": 0.0,
+  "lamp_intensity": 1.0,
+"kitchen_bulb_intensity": 0.7,
+"living_bulb_intensity": 1.5,
+"ambient_off_when_lamps_off": 0.03
+
+
+}

@@ -1,0 +1,6 @@
+# floor_12x12.mtl
+newmtl Floor_Wood
+Ka 0.10 0.10 0.10
+Kd 0.60 0.60 0.60
+Ks 0.05 0.05 0.05
+Ns 10.0
